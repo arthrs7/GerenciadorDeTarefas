@@ -58,6 +58,6 @@ dotnet run
 
 Escolha a opção desejada e interaja com o sistema de gerenciamento de tarefas.
 
-💡 **Obrigado pela atenção!** 🚀
+💡 **Obrigado pela atenção!!** 🚀
 
 ---
